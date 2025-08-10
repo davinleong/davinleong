@@ -1,5 +1,4 @@
 ## Hi 👋, I'm Davin Leong
-<br>
 A Full Stack Developer passionate about building web applications, real-world solutions, and game development! <br><br>
 
 ### Tools:

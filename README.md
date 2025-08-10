@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 👋, I'm Davin Leong
+<br>
+A Full Stack Developer passionate about building web applications, real-world solutions, and game development! <br><br>
+
+### Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,python,php,cs,dotnet,git,java,laravel,nextjs)](https://skillicons.dev)
 
 <!--
 **davinleong/davinleong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

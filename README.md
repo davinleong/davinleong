@@ -1,6 +1,8 @@
 ## Hi 👋, I'm Davin Leong
 A Full Stack Developer passionate about building web applications, real-world solutions, and game development! <br><br>
 
+🔭 I’m currently working on [MovieRanker](https://github.com/davinleong/movie-ranker)
+
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,python,php,cs,dotnet,git,java,laravel,nextjs)](https://skillicons.dev)
 
